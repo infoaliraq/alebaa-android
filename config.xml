@@ -75,4 +75,5 @@
         <variable name="DEEPLINK_5_HOST" value=" " />
     </plugin>
     <plugin name="cordova-plugin-file" spec="^6.0.1" />
+    <plugin name="cordova-promise-polyfill" spec="^0.0.2" />
 </widget>
