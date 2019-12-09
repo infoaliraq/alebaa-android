@@ -76,5 +76,5 @@
     </plugin>
     <plugin name="cordova-plugin-file" spec="^6.0.1" />
     <plugin name="cordova-promise-polyfill" spec="^0.0.2" />
-    <plugin name="cordova-plugin-x-socialsharing" />
+    <plugin name="cordova-plugin-x-socialsharing" spec="5.4.0" />
 </widget>
